@@ -1,4 +1,4 @@
-# nm
+# nm - Network monitor tool
 
 ## Development mode
 
