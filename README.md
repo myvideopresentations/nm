@@ -10,6 +10,8 @@
 * [Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [Redux](https://redux.js.org/)
 * [Reach Router](https://reach.tech/router/)
+* [@react-nano](https://github.com/Lusito/react-nano) Hook for using Server-Sent-Events.
+* [A COMPOSABLE VISUALIZATION SYSTEM](https://github.com/uber/react-vis)
 
 ## Requirements
 
